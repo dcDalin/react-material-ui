@@ -1,2 +1,1 @@
-# react-material-ui
-React + Material UI
+# React + MaterialUI
